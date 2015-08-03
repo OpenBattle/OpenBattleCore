@@ -27,5 +27,5 @@
 *.out
 *.app
 
-# Compiled files
-lib/*
+# Build output
+lib/
