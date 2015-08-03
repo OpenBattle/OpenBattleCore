@@ -1,0 +1,2 @@
+# OpenBattleCore
+Shared library
